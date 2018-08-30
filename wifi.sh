@@ -2,7 +2,7 @@
 #Linux program for closing an Unauthorized wifi network. Or even kick a user from your own personal network.
 
 clear 
-
+test payment error
 iwconfig
 
 read interface
